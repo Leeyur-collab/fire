@@ -37,3 +37,6 @@ print(torch.cuda.get_device_name(torch.cuda.current_device()))
 True
 0
 NVIDIA GeForce RTX 3090 < 이런 식으로 나오면 할당 잘 된것
+
+
+학습을 돌려보면 결과는 Run에 저장되어있다. 
